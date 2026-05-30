@@ -6,3 +6,16 @@
 .p {
   font-size: large;
 }
+
+.info {
+  height: 100%;
+  width: auto;
+  background-color: burlywood;
+  padding: 15px;
+}
+
+.Axe {
+  height: 100%;
+  width: auto;
+  padding: 15px;
+}
